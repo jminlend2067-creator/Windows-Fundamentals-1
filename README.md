@@ -1,8 +1,8 @@
 # Windows-Fundamentals-1
 Windows-learning fundamentals 1
-# 🛡️ Windows Fundamentals Lab – Cybersecurity Portfolio
+#  Windows Fundamentals Lab – Cybersecurity Portfolio
 
-## 📌 Overview
+## Overview
 
 This repository documents my hands-on experience completing the **Windows Fundamentals 1 Lab**, focusing on core system administration and security concepts within a Windows environment.
 
@@ -10,7 +10,7 @@ The goal of this lab was to build a strong foundation in how Windows operates fr
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 * Windows OS Navigation & Configuration
 * User Account Management
@@ -21,26 +21,26 @@ The goal of this lab was to build a strong foundation in how Windows operates fr
 
 ---
 
-## 🧪 Lab Breakdown
+##  Lab Breakdown
 
-### 🔹 1. Windows Architecture
+###  1. Windows Architecture
 
 * Explored core components of the Windows Operating System
 * Understood how the OS interacts with hardware and software
 
-### 🔹 2. User & Account Management
+###  2. User & Account Management
 
 * Created and managed local user accounts
 * Configured user groups and permissions
 * Applied the principle of least privilege
-
-### 🔹 3. File System & Permissions
+  
+###  3. File System & Permissions
 
 * Navigated the NTFS file system
 * Modified file/folder permissions
 * Understood access control mechanisms
 
-### 🔹 4. System Utilities
+###  4. System Utilities
 
 * Used tools such as:
 
@@ -49,14 +49,14 @@ The goal of this lab was to build a strong foundation in how Windows operates fr
   * System Configuration (msconfig)
 * Investigated system processes and logs
 
-### 🔹 5. Command Line Basics
+###  5. Command Line Basics
 
 * Executed basic commands in Command Prompt
 * Navigated directories and managed files via CLI
 
 ---
 
-## 🔐 Security Takeaways
+## Security Takeaways
 
 * Importance of proper user privilege management
 * How misconfigured permissions can create vulnerabilities
@@ -64,13 +64,22 @@ The goal of this lab was to build a strong foundation in how Windows operates fr
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-*(Add screenshots here to show proof of work – highly recommended for recruiters)*
+###  User Account Management
+![User Management](user-management.png)
 
+###  NTFS Permissions Configuration
+![Permissions](permissions.png)
+
+### Event Viewer Logs
+![Event Viewer](event-viewer.png)
+
+### ⚙️ Task Manager & System Processes
+![Task Manager](task-manager.png)
 ---
 
-## 🚀 Tools Used
+## Tools Used
 
 * Windows 10 / Windows 11
 * Command Prompt
@@ -78,7 +87,7 @@ The goal of this lab was to build a strong foundation in how Windows operates fr
 
 ---
 
-## 🎯 What’s Next
+##  What’s Next
 
 I am continuing my cybersecurity journey by:
 
@@ -88,7 +97,7 @@ I am continuing my cybersecurity journey by:
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 If you're a recruiter or cybersecurity professional, feel free to connect with me on LinkedIn!
 
