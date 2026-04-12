@@ -66,18 +66,21 @@ The goal of this lab was to build a strong foundation in how Windows operates fr
 
 ## Screenshots
 
-###  User Account Management
-![User Management](user-management.png)
+## User Account Management
+Configured and managed local users and groups.
+![User Management](Screenshot%202026-04-12%20at%204.47.51%20PM.png)
 
-###  NTFS Permissions Configuration
-![Permissions](permissions.png)
+### NTFS Permissions Configuration
+Modified file and folder permissions to control access.
+![Permissions](Screenshot%202026-04-12%20at%204.47.55%20PM.png)
 
-### Event Viewer Logs
-![Event Viewer](event-viewer.png)
+###Event Viewer Logs
+Analyzed system logs to monitor activity and detect issues.
+![Event Viewer](Screenshot%202026-04-12%20at%204.48.24%20PM.png)
 
-### ⚙️ Task Manager & System Processes
-![Task Manager](task-manager.png)
----
+###Task Manager & System Processes
+Reviewed running processes and system performance.
+![Task Manager](Screenshot%202026-04-12%20at%205.58.14%20PM.png)
 
 ## Tools Used
 
@@ -105,6 +108,6 @@ If you're a recruiter or cybersecurity professional, feel free to connect with m
 
 ---
 
-## ⭐ Why This Matters
+## Why This Matters
 
 This project reflects my commitment to learning cybersecurity through **hands-on, real-world practice**, not just theory.
